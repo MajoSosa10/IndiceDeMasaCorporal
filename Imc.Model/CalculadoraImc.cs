@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Reflection.PortableExecutable;
-using System.Text;
-
-namespace Imc.Maui.Models
+﻿namespace Imc.Models
 {
     public static class CalculadoraImc
     {
