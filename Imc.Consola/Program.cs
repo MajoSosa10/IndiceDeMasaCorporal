@@ -3,7 +3,7 @@
 Console.WriteLine("Aplicación que calcula el índice de masa corporal de una persona");
 Console.WriteLine("");
 
-decimal peso = ReadDecimal("Proporcuone el peso en kilogramos de la persona:");
+decimal peso = ReadDecimal("Proporcione el peso en kilogramos de la persona:");
 decimal estatura=ReadDecimal("Porporcione la estatura en metros de la persona: ");
 
 decimal imc = CalculadoraImc.IndiceDeMasaCorporal(peso, estatura);
